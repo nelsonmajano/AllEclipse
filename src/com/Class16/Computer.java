@@ -13,6 +13,7 @@ public static void main(String[] args) {
 	comp1.screen=8;
 	comp1.os="Windows";
 	comp1.brand="HP";
+	
 	comp1.watchMovie();
 	comp1.doJavacoding();
 	comp1.playMusic();
@@ -25,6 +26,7 @@ public static void main(String[] args) {
 	comp2.screen=4;
 	comp2.os="MAc Os";
 	comp2.brand="Apple";
+	
 	comp2.watchMovie();
 	comp2.doJavacoding();
 	comp2.playMusic();
