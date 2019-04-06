@@ -4,6 +4,7 @@ public class NestedLoopdemo {
 
 	public static void main(String[] args) {
 		
+		
 
 	}
 

@@ -10,11 +10,11 @@ void hello() {
 void bye() {
 System.out.println("Bye");
 }
-public static void main(String[]args) {
+public static void main(String[]args) {//method signature
 	
-NoMainMethod obj=new NoMainMethod(); //method signature
-obj.hello(); //we calloing a method hello
-
-
+NoMainMethod obj=new NoMainMethod(); //method body
+obj.hello(); //we calling a method hello
+obj.bye();
 }
+
 }
