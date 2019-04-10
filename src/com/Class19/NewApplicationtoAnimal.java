@@ -35,9 +35,13 @@ Animal anim2 = new Animal();
                 System.out.println(anim3.name);     
    
 	int my_array[] = {0,1,2,3,4,5,6,7,8,9,10};
-	
+	int[] array = { 25, 14, 56, 15, 36, 56, 77, 18, 29, 49 };
 	System.out.println("Printing the mininum value");
 	
 	System.out.println(Mininum.minOfValues(my_array));
+	System.out.println(Mininum.maxOfValues(array));
+	
+	Mininum min= new Mininum();
+	min.print();
 	}
 }
