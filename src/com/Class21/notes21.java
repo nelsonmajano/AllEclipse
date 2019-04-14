@@ -1,7 +1,9 @@
+/**
+ * 
+ */
 package com.Class21;
-
-public class Notes {
-
+public class notes21{
+/**
 	**VARIABLES IN JAVA**:
 		1) Local - declared and accessed ONLY inside method, Constructor, block
 
@@ -22,3 +24,7 @@ MAIN= NAME OF A METHOD
 STRING[] ARGS= PARAMETERS- ARRAY OF STRINGS WITH THE NAME ARGS
 }
  
+ */
+
+
+}

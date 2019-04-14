@@ -2,12 +2,15 @@ package com.Class22;
 
 public class Child2 extends Parent {
 
+	String hairType="curly";
+	
 	public static void main(String[] args) {
 		
 		Child2 childObject=new Child2();
 		System.out.println("Child 2 eye color "+childObject.eyeColor);
 		System.out.println("Child 2 hair color "+childObject.hairColor);
 		System.out.println("Child 2 has "+childObject.nose+" nose");
+		System.out.println("Child 2 has "+childObject.hairType+" hair types");
 		childObject.sing();
 		childObject.playSoccer();
 		

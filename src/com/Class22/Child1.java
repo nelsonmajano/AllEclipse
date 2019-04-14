@@ -10,6 +10,7 @@ String hairType="curly";
 		System.out.println("Child 1 eye color "+childObject.eyeColor);
 		System.out.println("Child 1 hair color "+childObject.hairColor);
 		System.out.println("Child 1 has "+childObject.nose+" nose");
+		System.out.println("Child 1 has "+childObject.hairType+" hair type");
 		childObject.sing();
 		childObject.playTennis();
 		
