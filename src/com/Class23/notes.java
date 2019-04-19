@@ -9,7 +9,24 @@ public class notes {
  *
  *Protected VS Default:
  *protected members (Variables & Methods) can be accessed 
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *IQ: can we override a constructor?
+ *
+ *
+ *
+ *IQ: can we overload a main method?
  */
+	
+	
 
 
 }

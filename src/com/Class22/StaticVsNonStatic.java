@@ -11,7 +11,7 @@ public String name="John";//instance variable
 		StaticVsNonStatic obj=new StaticVsNonStatic();
 		obj.getInfo();
 		
-		getInfo1();//within same class we can call it by using method/varibale name
+		getInfo1();//within same class we can call it by using method/variable name
 		
 		System.out.println(lastName);
 		System.out.println(obj.name);
