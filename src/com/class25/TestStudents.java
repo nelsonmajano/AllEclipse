@@ -2,9 +2,12 @@ package com.class25;
 
 public class TestStudents {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
+public static void main(String[] args) {
+		
+		
+		Student stu=new SyntaxStudents();
+		stu.study();
+		stu.doHomeWork();
+		stu.attendClasses("Hello", 10);
+}
 }
